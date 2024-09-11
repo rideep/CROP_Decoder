@@ -1,4 +1,23 @@
-# crop-decoder
+# Cross-Lingual NER with decoder-based multilingual labeled sequence
+
+# Abstract
+Cross-lingual Named Entity Recognition (NER)
+is crucial for multilingual natural language pro-
+cessing tasks, allowing systems to identify named
+entities for low resources langauges. This study
+investigated the potential enhancement of cross-
+lingual NER performance through the implemen-
+tation of a decoder-only transformer in conjunc-
+tion with multilingual labeled sequence translation.
+The decoder-only transformer architecture, known
+for its simplicity and efficiency, is hypothesized
+to improve the model’s ability to capture linguis-
+tic features relevant to NER across languages. By
+leveraging multilingual labeled sequence transla-
+tion, the model learns to align representations of
+named entities across languages, facilitating the
+effective cross-lingual transfer
+transalation
 To train the translation model, download the dataset from https://drive.google.com/file/d/1kEUAbJGOz34TVJktwTrHKBv0WcqRdlMm/view?usp=drive_link
 
 
