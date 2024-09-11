@@ -17,6 +17,12 @@ leveraging multilingual labeled sequence transla-
 tion, the model learns to align representations of
 named entities across languages, facilitating the
 effective cross-lingual transfer
+# Dataset
+CCaligned, CoNLL-5, and XTREME-40 datasets
+# Environment
+Python: >= 3.6
+PyTorch: >= 1.5.0
+# Training
 transalation
 To train the translation model, download the dataset from https://drive.google.com/file/d/1kEUAbJGOz34TVJktwTrHKBv0WcqRdlMm/view?usp=drive_link
 
